@@ -1,4 +1,4 @@
-// script.js
+
 const form = document.getElementById('plantForm');
 const lista = document.getElementById('listaPlantas');
 
